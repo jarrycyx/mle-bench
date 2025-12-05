@@ -1,0 +1,7 @@
+random-acts-of-pizza
+tabular-playground-series-may-2022
+denoising-dirty-documents
+nomad2018-predict-transparent-conductors
+dog-breed-identification
+new-york-city-taxi-fare-prediction
+histopathologic-cancer-detection
